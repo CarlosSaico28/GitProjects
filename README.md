@@ -1,7 +1,9 @@
 # 📊 Exploratory Data Analysis & Feature Extraction
 
-![EDA Banner](https://raw.githubusercontent.com/CarlosSaico28/GitProjects/main/notebooks/eda_banner.png)  
-*Visualizing the power of data insights through Python and interactive notebooks.*
+<p align="center">
+  <img src="EDA.jpg" alt="YOLOv5">
+</p>
+Visualizing the power of data insights through Python and interactive notebooks.
 
 ---
 
